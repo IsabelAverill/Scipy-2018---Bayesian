@@ -1,4 +1,4 @@
-name: bayesian-modelling-tutorial
+name: bayesian
 channels:
 - defaults
 - conda-forge
